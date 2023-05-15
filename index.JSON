@@ -1,0 +1,98 @@
+[
+  { "id":1,
+    "headding": "Home appliances | Up to 55% off",
+    "cardControl": true,
+    "image1": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681804818/amazon/Appliances-QC-PC-186x116--B08RDL6H79._SY116_CB667322346__gdr8mh.jpg",
+    "image1text": " ACs Air conditioners ",
+    "image2": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681804826/amazon/Appliances-QC-PC-186x116--B08345R1ZW._SY116_CB667322346__jqonh4.jpg",
+    "image2text": "Refrigerators",
+    "image3": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681804829/amazon/Appliances-QC-PC-186x116--B07G5J5FYP._SY116_CB667322346__vsirai.jpg",
+    "image3text": "Microwaves",
+    "image4": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681804836/amazon/186x116---wm._SY116_CB667322346__dijk2j.jpg",
+    "image4text": "washing Machines",
+    "linkText": "See more"
+  },
+  { "id":2,
+    "headding": "Limited period offer on travel tickets",
+    "cardControl": true,
+    "image1": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681807884/amazon/Flight_186x116._SY116_CB618818544__duaqkx.jpg",
+    "image1text": "Get up to 20% off* on flight tickets",
+    "image2": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681807892/amazon/Train_186x116._SY116_CB591782866__tjwtmd.jpg",
+    "image2text": "Zero Gateway fee on Trains",
+    "image3": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681807895/amazon/Bus_186x116._SY116_CB618818544__iqcvdd.jpg",
+    "image3text": "Guaranteed Rewards on bus tickets",
+    "image4": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681807901/amazon/Accessory_186x116._SY116_CB618818544__flewce.jpg",
+    "image4text": "Products of your travel needs",
+    "linkText": "See all offers"
+  },
+  { "id":3,
+    "headding": "Bluetooth Calling Smartwatch starts at...",
+    "cardControl": false,
+    "image": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681808828/amazon/PC_CategoryCard_379X304_1._SY304_CB614835787__rhofwi.jpg",
+    "linkText": "Shop Now"
+  },
+  { "id":4,
+    "cardControl":"add",
+    "image":"https://res.cloudinary.com/dx0fji5gh/image/upload/v1681909878/amazon/Laptops-Sept2019._CB436595915__g5ztay.jpg"
+
+  },
+ 
+  { "id":5,
+    "headding": "Revamp your home in style",
+    "cardControl": true,
+    "image1": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681808575/amazon/372x232_1_Low._SY116_CB670263840__niuky3.jpg",
+    "image1text": "Bedsheets & curtains",
+    "image2": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681808580/amazon/372x232_2_Low._SY116_CB670263840__vppzwd.jpg",
+    "image2text": "Home decoration",
+    "image3": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681808591/amazon/372x232_3_Low._SY116_CB670263840__lx5xlf.jpg",
+    "image3text": "Home Storage",
+    "image4": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681808599/amazon/372x232_4_Low._SY116_CB670263840__lirhul.jpg",
+    "image4text": "Lighting solutions",
+    "linkText": "Explore all"
+  },
+
+  { "id":6,
+  "headding": "Up to 50% off | Monitor blood sugar at home",
+  "cardControl": false,
+  "image": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681808804/amazon/CC_low_3._SY304_CB592656736__st4p6i.jpg",
+  "linkText": "Visit the store"
+},
+
+{ "id":7,
+    "cardControl":"addReverse",
+    "image":"https://res.cloudinary.com/dx0fji5gh/image/upload/v1681909878/amazon/Laptops-Sept2019._CB436595915__g5ztay.jpg"
+
+  },
+  { "id":8,
+    "headding": " Starting ₹79 | Amazon Brands & more",
+    "cardControl": true,
+    "image1": " https://res.cloudinary.com/dx0fji5gh/image/upload/v1681902606/amazon/xcm_banners_tile2-kitchen_186x116_in-en._SY116_CB612501062__ix8sby.jpg",
+    "image1text": "Starting ₹149 | Choppers & more ",
+    "image2": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681902616/amazon/home_186._SY116_CB592083129__tllsyv.jpg ",
+    "image2text": "Starting ₹79 | String lights  & more ",
+    "image3": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681902622/amazon/kitchen186._SY116_CB592083129__dzbcnx.jpg ",
+    "image3text": " Starting ₹239 | Kitchen storage & containers",
+    "image4": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681902629/amazon/xcm_banners_tile4-home_186x116_in-en._SY116_CB612501080__cgca7f.jpg ",
+    "image4text": "Starting ₹189 | Wall stickers & more ",
+    "linkText": "Shop Now "
+  },
+  { "id":9,
+  "headding": "Shop & Pay | Earn rewards daily",
+  "cardControl": true,
+  "image1": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681808242/amazon/PC_Quard_Card_186X116_ScratchCard._SY116_CB627364845__vt2sts.jpg",
+  "image1text": "Claim your scratch cards",
+  "image2": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681808245/amazon/PC_Quard_Card_186X116_CollectedOffers._SY116_CB627364845__areyy8.jpg",
+  "image2text": "Redeem your collected rewards",
+  "image3": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681808251/amazon/PC_Pay__Win0.5x._SY116_CB616103432__b1l45c.jpg",
+  "image3text": "Play & Win scratch cards",
+  "image4": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681808259/amazon/PC_Shop__collect0.5x._SY116_CB616103432__tvmosq.jpg",
+  "image4text": "Shop & collect Rewards daily",
+  "linkText": "See more"
+}, 
+{ "id":10,
+"headding": "Up to 70% off | Clearance store",
+"cardControl":"end",
+"image": "https://res.cloudinary.com/dx0fji5gh/image/upload/v1681997146/amazon/Clearance_store_Desktop_CC_1x._SY304_CB628315133__vtepnl.jpg",
+"linkText": "See more"
+}
+]
